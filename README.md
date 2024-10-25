@@ -19,3 +19,4 @@ git branch: Crea, lista o elimina ramas en el repositorio.
 git checkout: Cambia de rama o restaura archivos en tu árbol de trabajo.
 
 git rebase: Reaplica commits en una base diferente. Es útil para mantener un historial de commits limpio.]
+![Prueba](https://github.com/user-attachments/assets/eb297e9f-1189-463d-9f17-f158e3a74ccf)
